@@ -1,0 +1,9 @@
+---
+
+#default: --profile pretty
+default: --publish-quiet
+
+pretty: --format pretty
+progress: --format progress
+chrome: BROWSER=chrome
+firefox: BROWSER=firefox
